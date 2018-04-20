@@ -1,7 +1,7 @@
-Maven Demo
-==========
+Java ED25519 Demo
+==================
 
-A very simple maven project demo.
+Generate private/public keys with ed25519.
 
 ```
 mvn clean install
